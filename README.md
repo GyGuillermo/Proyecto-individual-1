@@ -77,12 +77,6 @@ Denle importancia al README de su trabajo, va a ser su carta de presentación, t
 SUPERTIP: ¡Es el mejor momento para que comiencen a trabajar/familiarizarse con el uso de Github en sus proyectos!
 Expliquen su proyecto, agreguen diagramas de flujo del pipeline y lo que consideren necesario ¡Será parte de su portafolio de proyectos!
 
-Muy Importante -> VIDEO DEMO
-
-El video no deberá durar más de 5 minutos, en el mismo, deberán mostrar y explicar el proceso de extracción, transformación y carga de los datos, fundamentación de las herramientas elegidas en conjunto a la demora del trabajo. Por otra parte, deberán exponer la carga incremental asignada.
-En caso de que algún proceso genere tiempo muerto dentro de la grabación, el mismo podrá ser recortado o acelerado para agilizar la exposición.
-La grabación deberá ser subida a YouTube en una calidad igual o superior a la correcta legibilidad del código, recomendamos utilizar capturadoras como Loom, Zoom u otras que poseen entradas de audio. No se permite utilizar grabadoras como el telefono, cámaras, etc. Otro paso a seguir para evitar inconvenientes en la corrección es visitar el link donde se produjo la carga del archivo en modo incógnito para asegurar su correcta publicación.
-
 ![image](https://user-images.githubusercontent.com/43472426/202311675-e982350f-f44f-4158-8374-14baab17b9a7.png)
 
 Muy Importante -> VIDEO DEMO
@@ -92,6 +86,9 @@ En caso de que algún proceso genere tiempo muerto dentro de la grabación, el m
 La grabación deberá ser subida a YouTube en una calidad igual o superior a la correcta legibilidad del código, recomendamos utilizar capturadoras como Loom, Zoom u otras que poseen entradas de audio. No se permite utilizar grabadoras como el telefono, cámaras, etc. Otro paso a seguir para evitar inconvenientes en la corrección es visitar el link donde se produjo la carga del archivo en modo incógnito para asegurar su correcta publicación.
 La descripción del video cargado a YouTube y el nombre del archivo cargado al form deberá ser: NOMBRE Y APELLIDO ESTUDIANTE - DSH - PI_DE
 Ejemplo -> Fulanitode Tal - DSH - PI_DE
+
+
+
 
 
 
